@@ -27,7 +27,6 @@ Khởi chạy công cụ:
 python main.py
 ```
 
-🤝 Đóng góp
-Nếu bạn có ý tưởng mới hoặc phát hiện lỗi, hãy mở một Issue hoặc gửi một Pull Request. Mọi đóng góp của bạn đều giúp PyVuNuong hoàn thiện hơn!
+🤝 Đóng góp nếu bạn có ý tưởng mới hoặc phát hiện lỗi, hãy mở một Issue hoặc gửi một Pull Request. Mọi đóng góp của bạn đều giúp PyVuNuong hoàn thiện hơn!
 
 © 2026 PyVuNuong Project. Developed with ❤️ by IdlerHa
