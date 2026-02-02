@@ -9,15 +9,23 @@ PyVuNuong là một công cụ dòng lệnh (CLI) mạnh mẽ được viết b�
 
 ## 🛠 Yêu cầu hệ thống
 Trước khi chạy, hãy đảm bảo bạn đã cài đặt Python 3.x và các thư viện cần thiết:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 🚀 Hướng dẫn sử dụng:
 Tải bộ mã nguồn về máy:
-```git clone https://github.com/idlerha/pyvunuong.git```
+```
+git clone https://github.com/idlerha/pyvunuong.git
+```
 Di chuyển vào thư mục dự án:
-```cd PyVuNuong```
+```
+cd PyVuNuong
+```
 Khởi chạy công cụ:
-```python main.py```
+```
+python main.py
+```
 
 🤝 Đóng góp
 Nếu bạn có ý tưởng mới hoặc phát hiện lỗi, hãy mở một Issue hoặc gửi một Pull Request. Mọi đóng góp của bạn đều giúp PyVuNuong hoàn thiện hơn!
