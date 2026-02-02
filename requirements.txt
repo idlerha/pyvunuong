@@ -1,0 +1,6 @@
+qrcode
+rich
+colorist
+speedtest-cli
+typing_extensions
+pytubefix
