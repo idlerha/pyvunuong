@@ -20,7 +20,7 @@ git clone https://github.com/idlerha/pyvunuong.git
 ```
 Di chuyển vào thư mục dự án:
 ```
-cd PyVuNuong
+cd pyvunuong
 ```
 Khởi chạy công cụ:
 ```
