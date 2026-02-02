@@ -5,13 +5,7 @@ PyVuNuong là một công cụ dòng lệnh (CLI) mạnh mẽ được viết b�
 ## ✨ Chức năng chính
 * ✅ **Tạo mã QR:** Chuyển đổi liên kết hoặc văn bản thành hình ảnh QR chỉ trong vài giây.
 * 🚀 **Speed Test:** Kiểm tra tốc độ Internet (Download, Upload, Ping) trực tiếp từ terminal.
-* 📺 **YouTube Downloader:** Hỗ trợ tải video hoặc âm thanh từ YouTube với chất lượng tùy chọn.
-
-## 🛠 Yêu cầu hệ thống
-Trước khi chạy, hãy đảm bảo bạn đã cài đặt Python 3.x và các thư viện cần thiết:
-```
-pip install -r requirements.txt
-```
+* 📺 **YouTube Downloader:** Hỗ trợ tải video hoặc âm thanh từ YouTube.
 
 🚀 Hướng dẫn sử dụng:
 Tải bộ mã nguồn về máy:
@@ -21,6 +15,10 @@ git clone https://github.com/idlerha/pyvunuong.git
 Di chuyển vào thư mục dự án:
 ```
 cd pyvunuong
+```
+Cài đặt các thư viện cần thiết:
+```
+pip install -r requirements.txt
 ```
 Khởi chạy công cụ:
 ```
